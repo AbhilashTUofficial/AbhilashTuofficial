@@ -12,17 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He 🚹
 - ⚡ Fun fact: I'm hyperactive, curious, Immune to certain human emontions.
 - 🤨 Not so fun fact: Introvert, Anger issues.
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="Abhilash Tu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <!-- status codes -->
 <a align="center" href="https://abhilashtuofficial.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
-
+    <img src="https://github-readme-stats.vercel.app/api?username=abhilashtuofficial&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="Abhilash Tu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 ## Languages and Tools:
