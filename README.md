@@ -27,6 +27,35 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
 
+<!-- programming langs i work-->
+<p align="center">
+<img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/krakenjs/krakenjs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
+</p>
 
 [website]: https://abhilashtuofficial.github.io/
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
