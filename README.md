@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Abhilash Tu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<!-- status codes -->
+<a align="center" href="https://abhilashtuofficial.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
+
+    </p>
+</a>
+
 <br />
 ## Languages and Tools:
 
@@ -26,13 +35,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
-
-<!-- status codes -->
-<a align="center" href="https://abhilashtuofficial.github.io">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-    </p>
-</a>
 
 
 [website]: https://abhilashtuofficial.github.io/
