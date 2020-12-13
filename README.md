@@ -19,7 +19,9 @@ Here are some ideas to get you started:
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
+
 ### Talk with me, I am kinda awesome:
+
 [<img align="left" alt="Abhilash Tu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -38,5 +40,5 @@ Here are some ideas to get you started:
 [website]: https://abhilashtuofficial.github.io/
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
 [instagram]: https://www.instagram.com/abhilash_tu/
-[linkedin]: https://www.linkedin.com/in/abhilash-tu-160630190/
+[linkdein]: https://www.linkedin.com/in/abhilash-tu-160630190/
 
