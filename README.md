@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning improving my dynamic programming skills.
 - 👯 I’m looking to collaborate on open source.
-- 🤔 I’m looking for study buddy.
+- 🤔 I’m looking for a study buddy.
 - 💬 Ask me about my works or about me.
 - 😄 Pronouns: He/Him 🚹
 - ⚡ Fun fact: I'm hyperactive, curious, Immune to certain human emontions.
