@@ -10,9 +10,8 @@
 <!-- status codes -->
 <a align="center" href="https://abhilashtuofficial.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhilashtuofficial&show_icons=true&theme=midnight-purple" alt="my github stats" width="620"/>&nbsp;
-                <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial&layout=compact&theme=midnight-purple" alt="languages" height="165">-->
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=abhilashtuofficial&show_icons=true&theme=midnight-purple" alt="my github stats" width="420"/>&nbsp;
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial&layout=compact&theme=midnight-purple" alt="languages" height="165">
     </p>
 </a>
 
