@@ -78,11 +78,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/javaScript-programming?color=yellow&label=javaScript%20programming&logo=javascript&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/python-programming?color=blue&label=python%20programming&logo=python&style=for-the-badge)
 
-
-
-
-
-
 [website]: https://abhilashtuofficial.github.io/
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
 [instagram]: https://www.instagram.com/abhilash_tu/
