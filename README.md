@@ -60,6 +60,11 @@
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
+[<img align="left" alt="Visual Studio" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/visualstudio.png">][vscode]
+[<img align="left" alt="Android studio" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/androidstudio.png">][android]
+[<img align="left" alt="Intellij" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/intellij.png">][java]
+[<img align="left" alt="Pycharm" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/pycharm.png">][python]
+[<img align="left" alt="Webstorm" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/webstorm.png">][web]
 [<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
@@ -96,3 +101,4 @@
 [c/c++]: https://github.com/AbhilashTUofficial/Cpp-programming
 [flutter]: https://github.com/AbhilashTUofficial/CloneApps
 [java]: https://github.com/AbhilashTUofficial/java-programming
+[android]: https://github.com/AbhilashTUofficial/CloneApps
