@@ -59,18 +59,18 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][youtube]
-[<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][youtube]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][youtube]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][youtube]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][youtube]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][youtube]
-[<img align="left" alt="python" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/python.png">][youtube]
-[<img align="left" alt="Dart" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/dart.png">][youtube]
-[<img align="left" alt="C" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/c.png">][youtube]
-[<img align="left" alt="C++" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/cpp.png">][youtube]
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][youtube]
-[<img align="left" alt="Java" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][youtube]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
+[<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][github]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
+[<img align="left" alt="python" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/python.png">][python]
+[<img align="left" alt="Dart" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/dart.png">][dart]
+[<img align="left" alt="C" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/c.png">][c/c++]
+[<img align="left" alt="C++" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/cpp.png">][c/c++]
+[<img align="left" alt="Flutter" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
+[<img align="left" alt="Java" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
 
 
 <br/>
@@ -87,4 +87,12 @@
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
 [instagram]: https://www.instagram.com/abhilash_tu/
 [linkdein]: https://www.linkedin.com/in/abhilash-tu-160630190/
-
+[vscode]: https://code.visualstudio.com/
+[github]: https://github.com/AbhilashTUofficial
+[web]: https://github.com/AbhilashTUofficial/Web-development
+[js]: https://github.com/AbhilashTUofficial/JavaScript-programming
+[python]: https://github.com/AbhilashTUofficial/Python-programming
+[dart]: https://github.com/AbhilashTUofficial/CloneApps
+[c/c++]: https://github.com/AbhilashTUofficial/Cpp-programming
+[flutter]: https://github.com/AbhilashTUofficial/CloneApps
+[java]: https://github.com/AbhilashTUofficial/java-programming
