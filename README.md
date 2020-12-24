@@ -71,6 +71,7 @@
 
 [<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
+<br/>
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
@@ -80,7 +81,6 @@
 [<img align="left" alt="C++" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/cpp.png">][c/c++]
 [<img align="left" alt="Flutter" width="34px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
 [<img align="left" alt="Java" width="32px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
-<br/>
 <br/>
 
 ## Last commits:
