@@ -65,6 +65,10 @@
 [<img align="left" alt="Intellij" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/intellij.png">][java]
 [<img align="left" alt="Pycharm" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/pycharm.png">][python]
 [<img align="left" alt="Webstorm" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/webstorm.png">][web]
+[<img align="left" alt="Blender" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/blender.png">][behance]
+[<img align="left" alt="Adobe xd" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/xd.png">][behance]
+[<img align="left" alt="Photoshop" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/ps.png">][behance]
+
 [<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
@@ -102,3 +106,5 @@
 [flutter]: https://github.com/AbhilashTUofficial/CloneApps
 [java]: https://github.com/AbhilashTUofficial/java-programming
 [android]: https://github.com/AbhilashTUofficial/CloneApps
+[behance]: https://www.behance.net/abhilashstorm
+
