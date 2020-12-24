@@ -60,7 +60,7 @@
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
-[<img align="left" alt="Visual Studio" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/visualstudio.png">][vscode]
+[<img align="left" alt="Visual Studio" width="38px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/visualstudio.png">][vscode]
 [<img align="left" alt="Android studio" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/androidstudio.png">][android]
 [<img align="left" alt="Intellij" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/intellij.png">][java]
 [<img align="left" alt="Pycharm" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/pycharm.png">][python]
@@ -76,10 +76,10 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
 [<img align="left" alt="python" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/python.png">][python]
 [<img align="left" alt="Dart" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/dart.png">][dart]
-[<img align="left" alt="C" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/c.png">][c/c++]
+[<img align="left" alt="C" width="32px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/c.png">][c/c++]
 [<img align="left" alt="C++" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/cpp.png">][c/c++]
-[<img align="left" alt="Flutter" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
-[<img align="left" alt="Java" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
+[<img align="left" alt="Flutter" width="34px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
+[<img align="left" alt="Java" width="32px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
 
 
 <br/>
