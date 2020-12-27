@@ -91,7 +91,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/javaScript-programming?color=yellow&label=javaScript%20programming&logo=javascript&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/python-programming?color=blue&label=python%20programming&logo=python&style=for-the-badge)
 <br/>
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/CloneApps?color=blue&label=Flutter%20programming&logo=flutter&logoColor=lightblue&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Flutter-programming?color=blue&label=Flutter%20programming&logo=flutter&logoColor=lightblue&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Dynamic-programming?color=purple&label=Dynamic%20programming&logo=convertio&logoColor=white&style=for-the-badge)
 
 [website]: https://abhilashtuofficial.github.io/
