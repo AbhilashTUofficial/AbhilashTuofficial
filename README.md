@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him 🚹
 - ⚡ Fun fact: I'm hyperactive, curious, Immune to certain human emontions.
 - 🤨 Not so fun fact: Introvert, Anger issues.
+![](https://komarev.com/ghpvc/?username=AbhilashTUofficial)
 <!-- status codes -->
 <a align="center" href="https://abhilashtuofficial.github.io">
     <p align="center">
