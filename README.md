@@ -54,7 +54,9 @@
 <a href="https://www.behance.net/abhilashstorm" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>   
-
+<a href="https://discord.com/" target="_blank">
+<img src=https://img.shields.io/badge/discord-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>   
 <br/>
 
 ## Languages and Tools:
