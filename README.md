@@ -5,8 +5,8 @@
 - 🤔 I’m looking for a study buddy.
 - 💬 Ask me about my works or about me.
 - 😄 Pronouns: He/Him 🚹
-- ⚡ Fun fact: I'm hyperactive, curious, Immune to certain human emontions.
-- 🤨 Not so fun fact: Introvert, Anger issues.
+- ⚡ Fun fact: I'm Hyperactive, Curious, Sensitive.
+- 🤨 Not so fun fact: Introvert, Overthinking.
 <!-- status codes -->
 <a align="center" href="https://abhilashtuofficial.github.io">
     <p align="center">
