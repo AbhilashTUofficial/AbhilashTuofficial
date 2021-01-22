@@ -85,7 +85,6 @@
 [<img align="left" alt="Java" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
 [<img align="left" alt="Shell" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/shell.png">][shell]
 
-
 <br/>
 
 [<img align="left" alt="Flutter" width="34px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
@@ -100,9 +99,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/javaScript-programming?color=yellow&label=javaScript%20programming&logo=javascript&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/python-programming?color=blue&label=python%20programming&logo=python&style=for-the-badge)
 <br/>
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Shell-scripting?label=Shell%20scripting&logo=gnu%20bash&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Flutter-programming?color=blue&label=Flutter%20programming&logo=flutter&logoColor=lightblue&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Dynamic-programming?color=purple&label=Dynamic%20programming&logo=convertio&logoColor=white&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Shell-scripting?label=Shell%20scripting&logo=gnu%20bash&style=for-the-badge)
+
 
 [website]: https://abhilashtuofficial.github.io/
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
