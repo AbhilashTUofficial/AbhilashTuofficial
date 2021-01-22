@@ -80,6 +80,7 @@
 [<img align="left" alt="C++" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/cpp.png">][c/c++]
 [<img align="left" alt="Flutter" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/flutter.png">][flutter]
 [<img align="left" alt="Java" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/java.png">][java]
+[<img align="left" alt="Shell" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/shell.png">][shell]
 
 
 <br/>
@@ -91,6 +92,8 @@
 <br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/javaScript-programming?color=yellow&label=javaScript%20programming&logo=javascript&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTuofficial/python-programming?color=blue&label=python%20programming&logo=python&style=for-the-badge)
+<br/>
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Shell-scripting?label=Shell%20scripting&logo=gnu%20bash&style=for-the-badge)
 
 [website]: https://abhilashtuofficial.github.io/
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
@@ -107,4 +110,4 @@
 [java]: https://github.com/AbhilashTUofficial/java-programming
 [android]: https://github.com/AbhilashTUofficial/CloneApps
 [behance]: https://www.behance.net/abhilashstorm
-
+[shell]: https://github.com/AbhilashTUofficial/Shell-scripting
