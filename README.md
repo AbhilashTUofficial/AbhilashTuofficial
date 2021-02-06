@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Abhilash Tu
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 🌱 I’m currently learning improving my dynamic programming skills.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for a study buddy.
