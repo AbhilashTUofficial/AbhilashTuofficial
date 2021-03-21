@@ -39,8 +39,7 @@
 [<img align="left" alt="Blender" width="26px" src="./logos/tools/blender.png">][behance]
 [<img align="left" alt="Adobe xd" width="26px" src="./logos/tools/xd.png">][behance]
 [<img align="left" alt="Photoshop" width="26px" src="./logos/tools/ps.png">][behance]
-
-[<img align="left" alt="Git" width="26px" src="./tools/git.png">][github]
+[<img align="left" alt="Git" width="26px" src="./logos/tools/git.png">][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
 <br/><br/>
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
