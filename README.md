@@ -30,7 +30,7 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">][vscode]
+[<img align="left" alt="Visual Studio Code" width="22px" src="./logos/tools/vscode.png">][vscode]
 [<img align="left" alt="Visual Studio" width="38px" src="./logos/tools/visualstudio.png">][vscode]
 [<img align="left" alt="Android studio" width="26px" src="./logos/tools/androidstudio.png">][android]
 [<img align="left" alt="Intellij" width="26px" src="./logos/tools/intellij.png">][java]
@@ -40,21 +40,19 @@
 [<img align="left" alt="Adobe xd" width="26px" src="./logos/tools/xd.png">][behance]
 [<img align="left" alt="Photoshop" width="26px" src="./logos/tools/ps.png">][behance]
 [<img align="left" alt="Git" width="26px" src="./logos/tools/git.png">][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">][github]
+[<img align="left" alt="Terminal" width="28px" src="./logos/tools/terminal.svg">][github]
 <br/><br/>
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">][js]
+[<img align="left" alt="JavaScript" width="26px" src="./logos/tools/javascript.svg">][js]
 [<img align="left" alt="python" width="26px" src="./logos/tools/python.png">][python]
 [<img align="left" alt="Dart" width="26px" src="./logos/tools/dart.png">][dart]
-[<img align="left" alt="C" width="32px" src="./logos/tools/c.png">][c/c++]
+[<img align="left" alt="C" width="33px" src="./logos/tools/c.png">][c/c++]
 [<img align="left" alt="C++" width="26px" src="./logos/tools/cpp.png">][c/c++]
-[<img align="left" alt="Flutter" width="26px" src="./logos/tools/flutter.png">][flutter]
+[<img align="left" alt="Flutter" width="36px" src="./logos/tools/flutter.png">][flutter]
 [<img align="left" alt="Java" width="26px" src="./logos/tools/java.png">][java]
 [<img align="left" alt="Shell" width="26px" src="./logos/tools/shell.png">][shell]
-
-<br/><br/>
-
+<br/>
 
 [website]: https://abhilashtuofficial.github.io/
 [youtube]: https://www.youtube.com/channel/UC8iP2LKB-V1g2jMTbe6Pb4Q
