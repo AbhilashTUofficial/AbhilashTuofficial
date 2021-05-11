@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Abhilash Tu
-- 🌱 I’m currently learning improving my dynamic programming skills.
+- 🌱 I’m currently improving my dynamic programming skills.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for a study buddy.
 - 💬 Ask me about my works or about me.
