@@ -1,5 +1,8 @@
-### Hi there 👋 I'm Abhilash Tu
-- 🌱 I’m currently learning improving my dynamic programming skills.
+
+<h2> Hi there 👋 I'm Abhilash Tu<img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+ <img align='right' src="./logos/pointless.gif" width="250"> 
+ 
+- 🌱 I’m currently improving my dynamic programming skills.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for a study buddy.
 - 💬 Ask me about my works or about me.
@@ -7,11 +10,10 @@
 - ⚡ Personality: INFJ-A
 
 <!-- status codes -->
-<a align="center" href="https://abhilashtuofficial.github.io">
-    <p align="center">
+<a align="left" href="https://abhilashtuofficial.github.io">
+    <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=abhilashtuofficial&show_icons=true&theme=midnight-purple" alt="my github stats" width="420"/>&nbsp;
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashtuofficial&layout=compact&theme=midnight-purple" alt="languages" height="165">
-    </p>
+        
 </a>
 
 <br/>
