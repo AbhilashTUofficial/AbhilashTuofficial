@@ -1,6 +1,6 @@
 
 <h2> Hi there 👋 I'm Abhilash Tu<img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
- <img align='right' src="./logos/pointless.gif" width="250"> 
+ <img align='right' src="./logos/pointless.gif" width="500"> 
  
 - 🌱 I’m currently improving my dynamic programming skills.
 - 👯 I’m looking to collaborate on open source.
@@ -10,7 +10,7 @@
 - ⚡ Personality: INFJ-A
 
 <!-- status codes -->
-<a align="left" href="https://abhilashtuofficial.github.io">
+<a align="center" href="https://abhilashtuofficial.github.io">
     <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=abhilashtuofficial&show_icons=true&theme=midnight-purple" alt="my github stats" width="420"/>&nbsp;
         
