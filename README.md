@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Abhilash Tu
-- 🌱 I’m currently improving my dynamic programming skills.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about my works or about me.
-- ❤️  I love [Anime.](https://grabify.link/SQVJ8T)
-- ⚡ Personality: [INFJ-A](https://grabify.link/1CZERQ)
+- 💡 I’m currently improving my dynamic programming skills.
+- 🖥️ I Play PC [Games.](https://grabify.link/30TC0Q)
+- ♟️  I Play [Chess.](https://grabify.link/7S6SXR)
+- ❤️  I Love [Anime.](https://grabify.link/SQVJ8T)
+- ⚡ Personality Type: [INFJ-A](https://grabify.link/1CZERQ)
 
 <!-- status codes -->
 <a align="center" href="https://abhilashtuofficial.github.io">
