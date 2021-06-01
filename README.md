@@ -2,7 +2,7 @@
 - 💡 I’m currently improving my dynamic programming skills.
 - 🖥️ I Play PC [Games.](https://grabify.link/30TC0Q)
 - ♟️  I Play [Chess.](https://grabify.link/7S6SXR)
-- ❤️  I Watch [Anime.](https://grabify.link/SQVJ8T)
+- ❤️  I Watch [Anime.](https://grabify.link/GCDNA9)
 - ⚡ Personality Type: [INFJ-A](https://grabify.link/1CZERQ)
 
 <!-- status codes -->
@@ -40,6 +40,8 @@
 [<img align="left" alt="Photoshop" width="26px" src="./logos/ps.png">][behance]
 [<img align="left" alt="Git" width="26px" src="./logos/git.png">][github]
 [<img align="left" alt="Terminal" width="28px" src="./logos/terminal.svg">][github]
+[<img align="left" alt="colab" width="28px" src="./logos/colab.png">][github]
+[<img align="left" alt="colab" width="28px" src="./logos/jupyter.svg">][github]
 <br/><br/>
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">][web]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">][web]
